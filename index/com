@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" type="text/css" href="sstyle.css">
+    <title>мое резюме</title>
+</head>
+    <body>
+        <div id="header">
+            <h1>Решилов Илья</h1>
+            <h3>Будущий Веб-разработчик</h3>
+            <p>
+                <a href="mailto:ilya92067@gmail.com">ilya92067@gmail.com</a>
+                <a href="github.com">github.com</a>
+            </p>
+        </div>
+        
+        <div id="main">
+            <p>Я недавно начал увлекаться веб-дизайном. После курсов на Хекслете хочу стать Веб-разработчиком.</p>
+            
+            <div class="main_section">
+                <h2>Образование</h2>
+
+                <div class="main_section_item">
+                    <h3>Школа</h3>
+                    <p> Имени С.П.Королёва </p>
+                </div>
+            </div>
+
+            <div class="main_section_item">
+                <h3>Хекслет</h3>
+                <p>Курсы по програмированию</p>
+            </div>
+            
+            <div class="main_section">
+                    <h2>Навыки и увлечения</h2>
+
+                    <div class="main_section_item">
+                        <ul>
+                            <li>Основы дизайна.</li>
+                            <li>Занятие спортом по спортивной гимнастике.</li>
+                        </ul>
+                    </div>
+            </div>
+        </div>
+
+        <div id="footer">
+            <strong>Илья Решилов</strong>
+                <bt/>
+                <p>ул. такая-то, 13, Самара, Россия +7 906 897 87 58 01, <a href="mailto:ilya92067@gmail.com">ilya92067@gmail.com</a></p>
+        </div>
+    </body>
+</html>
